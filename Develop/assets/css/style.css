@@ -62,22 +62,26 @@ p {
     background-position: center;
 }
 
+/*Images on the left for the content section*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*Image on the right for the content section*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*The main source of information for this webpage*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*The aside section on the right giving additional information*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
